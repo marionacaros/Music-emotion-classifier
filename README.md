@@ -1,2 +1,2 @@
 # Music-emotion-classifier
-Music emotion classifier
+This work is based on 50 songs including movie's soundtracks, popular music, hard rock, etc. Each song is classsified into one of the moods: happy, sad, agited and relaxed with the proposal of creating a playlists for each emotion. Using Music Information Retrieval (MIR) techniques, audio features are extracted to obtain information of tonality, energy, rhythm, and timbre. Having selected the best features, a Kmeans classifier is implemented to enable the classification.
